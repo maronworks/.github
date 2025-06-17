@@ -35,7 +35,7 @@ If it looks broken… well, that’s what labs are for. 😅
 
 ---
 
-## 🧠 Highlights (Optional Repos to Mention)
+## 🧠 Highlights
 
 - [`pi-sync`](https://github.com/MaronWorks/pi-sync) – Smart door system for condominiums  
   📱 Kotlin Android app + 🖥 Django Rest API + 🍓 Raspberry Pi integration  
