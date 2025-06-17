@@ -49,6 +49,17 @@ If it looks broken… well, that’s what labs are for. 😅
 
 ---
 
+## 📌 See Also
+
+Looking for my main production-ready apps? Check out my main GitHub profile:  
+[@ralphmarondev](https://github.com/ralphmarondev)
+
+- [`maron-os`](https://github.com/ralphmarondev/maron-os) – Virtual OS with multiple mini apps built in Jetpack Compose
+- [`keepsafe`](https://github.com/ralphmarondev/keepsafe) – Compose Multiplatform family information manager for Android & Desktop, powered by Firebase
+- [`mewzi`](https://github.com/ralphmarondev/mewzi) – Mini social app with Jetpack Compose M3 + Django REST API, featuring JWT auth and image upload
+
+---
+
 ## 🐾 About Me
 
 You can find my main projects, portfolio, and clean code over at:  
